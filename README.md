@@ -3,7 +3,7 @@
 ## Certifications
 
 ## Projects / Courses
-- *June 2025*, Kali Linux Setup Script, Personal Project
+- **June 2025**, Kali Linux Setup Script, Personal Project
 
 ## Skills / Tools
 - *Bash*, System scripting
