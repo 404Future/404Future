@@ -1,11 +1,10 @@
-## Aspiring Web & Mobile Security Researcher
+# Certifications
 
-## Certifications
 
-## Projects / Courses
+# Projects / Courses
 - June 2025 - *Kali Linux* Setup Script, Personal Project
 
-## Skills / Tools
+# Skills / Tools
 - *Bash*, System scripting
 
 <!--
