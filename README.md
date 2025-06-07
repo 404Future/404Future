@@ -1,4 +1,12 @@
-## Hi..
+## Aspiring Web & Mobile Security Researcher
+
+## Certifications
+
+## Projects / Courses
+- *June 2025*, Kali Linux Setup Script, Personal Project
+
+## Skills / Tools
+- *Bash*, System scripting
 
 <!--
 **404Future/404Future** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
