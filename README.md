@@ -5,7 +5,9 @@
 - June 2025 - *Kali Linux* Setup Script, Personal Project
 
 # Skills / Tools
+- *Kali Linux*, Security testing platform
 - *Bash*, System scripting
+- *Burp Suite*, Web vulnerability scanning
 
 <!--
 **404Future/404Future** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
