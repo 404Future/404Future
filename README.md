@@ -1,5 +1,6 @@
+<!--
 # Certifications
-
+-->
 
 # Projects / Courses
 - June 2025 - *Kali Linux* Setup Script, Personal Project
@@ -8,18 +9,3 @@
 - *Burp Suite*, Web Security Assessment and Penetration Testing
 - *Bash*, System scripting
 - *Kali Linux*, Security testing platform
-
-<!--
-**404Future/404Future** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
