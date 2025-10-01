@@ -14,7 +14,7 @@ Apart from just wanting to know how things work, the knowledge can only complime
 # Ongoing Certifications / Projects / Courses
 - [Try Hack Me - Web Fundamentals](https://tryhackme.com/path/outline/web)
 - [Hack The Box - Web Penetration Tester](https://academy.hackthebox.com/path/preview/web-penetration-tester)
-- [Kali Linux Setup Script](https://github.com/404Future/Penetration-Testing/blob/main/kali_setup.sh)
+- [WIP - Kali Linux Setup Script](https://github.com/404Future/Penetration-Testing/blob/main/kali_setup.sh)
 
 <!--
 # Skills / Tools
