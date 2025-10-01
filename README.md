@@ -4,7 +4,7 @@ An IT professional who enjoys working on web (web2 or web3) and mobile security 
 ## What I'm working on.. 
 I'm currently going through Try Hack Me and Hack The Box courses, as I find these give good value for money. 
 After achieving a foundation, I want to get more comfortable with Burp Suite.
-I also intend to complete network & infrastructure related courses. 
+I also intend to complete network & infrastructure related courses from the same vendors. 
 Apart from just wanting to know how things work, the knowledge can only compliment other topics.
 
 <!--
