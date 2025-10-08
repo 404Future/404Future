@@ -7,9 +7,8 @@ After achieving a foundation, I want to get more comfortable with Burp Suite.
 I also intend to complete network & infrastructure related courses from the same vendors. 
 I'm mostly eager to learn how things work, and believe that all knowledge gained can only compliment eachother.
 
-<!--
 # Completed Certifications / Projects / Courses
--->
+- [Try Hack Me - Web Fundamentals]
 
 # Ongoing Certifications / Projects / Courses
 - [Try Hack Me - Web Fundamentals](https://tryhackme.com/path/outline/web)
