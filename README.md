@@ -8,10 +8,9 @@ I also intend to complete network & infrastructure related courses from the same
 I'm mostly eager to learn how things work, and believe that all knowledge gained can only compliment eachother.
 
 # Completed Certifications / Projects / Courses
-- [Try Hack Me - Web Fundamentals]
+- [Try Hack Me - Web Fundamentals](https://github.com/404Future/Uploads/blob/main/THM%20-%20Web%20Fundamentals.pdf)
 
 # Ongoing Certifications / Projects / Courses
-- [Try Hack Me - Web Fundamentals](https://tryhackme.com/path/outline/web)
 - [Hack The Box - Web Penetration Tester](https://academy.hackthebox.com/path/preview/web-penetration-tester)
 - [WIP - Kali Linux Setup Script](https://github.com/404Future/Penetration-Testing/blob/main/kali_setup.sh)
 
