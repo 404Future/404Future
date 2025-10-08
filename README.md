@@ -11,6 +11,7 @@ I'm mostly eager to learn how things work, and believe that all knowledge gained
 - [Try Hack Me - Web Fundamentals](https://github.com/404Future/File-Uploads/blob/main/THM%20-%20Web%20Fundamentals.pdf)
 
 # Ongoing Certifications / Projects / Courses
+- [Try Hack Me - Jr Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester?sharerId=689a0f877103689cb2b77bf5)
 - [Hack The Box - Web Penetration Tester](https://academy.hackthebox.com/path/preview/web-penetration-tester)
 - [WIP - Kali Linux Setup Script](https://github.com/404Future/Penetration-Testing/blob/main/kali_setup.sh)
 
