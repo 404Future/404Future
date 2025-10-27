@@ -11,9 +11,10 @@ I'm mostly eager to learn how things work, and believe that all knowledge gained
 
 # Completed Certifications / Courses
 - [Try Hack Me - Web Fundamentals](https://github.com/404Future/File-Uploads/blob/main/THM%20-%20Web%20Fundamentals.pdf)
+- [Try Hack Me - Jr Penetration Tester](https://github.com/404Future/File-Uploads/blob/main/THM-JrPentester.pdf)
 
 # Ongoing Certifications / Courses
-- [Try Hack Me - Jr Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester?sharerId=689a0f877103689cb2b77bf5)
+- [Try Hack Me - Web Application Pentesting](https://tryhackme.com/path/outline/webapppentesting)
 - [Hack The Box - Web Penetration Tester](https://academy.hackthebox.com/path/preview/web-penetration-tester)
 
 <!--
