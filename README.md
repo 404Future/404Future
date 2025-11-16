@@ -9,6 +9,7 @@ I'm mostly eager to learn how things work, and believe that all knowledge gained
 
 *Feel free to check my repositories if you're interested in what I'm working on.*
 
+<!--
 # Completed Certifications / Courses
 - [Try Hack Me - Web Fundamentals](https://github.com/404Future/File-Uploads/blob/main/THM%20-%20Web%20Fundamentals.pdf)
 - [Try Hack Me - Jr Penetration Tester](https://github.com/404Future/File-Uploads/blob/main/THM-JrPentester.pdf)
@@ -17,7 +18,6 @@ I'm mostly eager to learn how things work, and believe that all knowledge gained
 - [Try Hack Me - Web Application Pentesting](https://tryhackme.com/path/outline/webapppentesting)
 - [Hack The Box - Web Penetration Tester](https://academy.hackthebox.com/path/preview/web-penetration-tester)
 
-<!--
 # Skills / Tools
 - Bash Scripting
 - Kali Linux
