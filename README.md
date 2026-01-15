@@ -1,8 +1,6 @@
-# 404Future – Offensive Security Specialist
+# 404Future – Offensive Security
 
 Transitioned to cybersecurity 2+ years ago. Focused on web application testing, custom tooling, and red team methodologies.
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=404Future&theme=radical)](https://github.com/404Future)
 
 ## Core Skills
 - **Web Security**: OWASP Top 10, Burp Suite, manual testing, custom scanners
