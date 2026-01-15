@@ -1,9 +1,18 @@
-# whoami
-An IT professional who made the shift to cybersecurity about 2 years ago and enjoys working on cybersecurity research, stay up to date on cybersec news, or reading a book (which can be either work related or fiction).
+# 404Future – Offensive Security Specialist
 
-## What I'm working on.. 
-I'm currently going through the Hack The Box Web Penetration Tester course. 
-After completing this course, I want to get more comfortable with Burp Suite.
-As I do, I make notes of the courses I go through and keep them here on my GitHub. 
+Transitioned to cybersecurity 2+ years ago. Focused on web application testing, custom tooling, and red team methodologies.
 
-*Feel free to check my repositories if you're interested in what I'm working on.*
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=404Future&theme=radical)](https://github.com/404Future)
+
+## Core Skills
+- **Web Security**: OWASP Top 10, Burp Suite, manual testing, custom scanners
+- **Enumeration & Exploitation**: Nmap, Gobuster, SQLMap, Metasploit
+- **Scripting**: Python, Bash for recon/automation tools
+- **Active Learning**: HTB Web Penetration Tester (in progress)
+
+## Projects
+- **[🦈 JAWS Web Scanner](https://github.com/404Future/Penetration-Testing/blob/main/Scripts/JAWS/README.md)** – Custom Python scanner for rapid web enumeration, directory brute-forcing, and vuln discovery. Built for real-world pentesting workflows.
+- **[Penetration-Testing Repo](https://github.com/404Future/Penetration-Testing)** – Comprehensive notes covering recon, web/network exploitation, and attacks.
+
+## Get In Touch
+- 🔗 [LinkedIn](https://www.linkedin.com/in/geoffreymorren/)
