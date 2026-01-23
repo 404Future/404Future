@@ -1,7 +1,7 @@
 # 404Future – Offensive Security
 
 SOC Analyst & Web Security Researcher.
-Transitioned to cybersecurity 2+ years ago. SOC analyst by day, studying & building web pentest tools like [JAWS scanner](https://github.com/404Future/JAWS) by night.
+Transitioned to cybersecurity 2+ years ago. SOC analyst by day, studying & building web pentest tools like [JAWS](https://github.com/404Future/JAWS) scanner by night.
 
 ## Core Skills
 ### Web Security: ###
