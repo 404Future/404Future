@@ -16,4 +16,3 @@ Transitioned to cybersecurity 2+ years ago. SOC analyst by day, studying & build
 - Python/Bash for recon/automation tools & workflows
 
 ---
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=404Future&show_icons=true&theme=radical)](https://github.com/404Future/github-readme-stats)
