@@ -1,18 +1,22 @@
-# 404Future – Offensive Security
+## About Me
 
-SOC Analyst & Web Security Researcher.
-Transitioned to cybersecurity 2+ years ago. SOC analyst by day, studying & building web pentest tools by night.
+I’m **404Future**, a **SOC Analyst** and **Offensive Security-focused Web Security Researcher**.  
+After transitioning into cybersecurity over **2 years ago**, I’ve gained hands-on experience in monitoring, detection, and incident response, while continuing to develop offensive expertise in my personal time.
 
-## Core Skills
-### Web Security: ###
-- OWASP Top 10, Burp Suite, manual testing, custom scanners
-- HTB Web Penetration Tester (in progress), PortSwigger labs
-
-### Enumeration & Exploitation: ###
-- Nmap, Gobuster, SQLMap, Metasploit
-- Subdomain recon, vulnaribility chaining
-
-### Automation: ###
-- Python/Bash for recon/automation tools & workflows
+Outside of SOC work, I focus on **web application penetration testing**, vulnerability research, and building tools to better understand modern exploitation techniques.
 
 ---
+
+## Current Focus
+
+- Web application security and exploitation (HTB + PortSwigger Academy)  
+- Certification roadmap:  
+  - **Burp Suite Certified Practitioner (BSCP)**  
+  - **HTB Certified Web Exploitation Specialist (CWES)**  
+  - **HTB Certified Penetration Testing Specialist (CPTS)**  
+- Transitioning into **bug bounty hunting** and real-world vulnerability discovery.  
+- Learning web development through **The Odin Project** to strengthen my understanding of how modern applications are built and secured.
+
+---
+
+Always learning, building, and pushing deeper into offensive security.
