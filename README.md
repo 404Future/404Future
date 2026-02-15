@@ -46,12 +46,4 @@ I’m **404Future**, a **SOC Analyst** and **Offensive Security Researcher** foc
 
 ---
 
-## 🚀 Goals
-
-- Grow into a **reliable, methodical penetration tester** across traditional and emerging attack surfaces  
-- Expand skills in **web3 exploitation, AI-driven applications, mobile security, and exploit development**  
-- Document and share **structured methodologies, findings, and tooling** with the community  
-
----
-
 Always learning, building, and pushing deeper into offensive security.
