@@ -24,11 +24,9 @@ I’m **404Future**, a **SOC Analyst** and **Offensive Security Researcher** foc
 
 - **Web Application Security** – HTB labs, PortSwigger Academy, CTFs  
 - **Emerging Security** – web3 platforms, AI-powered applications  
-- **Certification Roadmap**:  
-  - Burp Suite Certified Practitioner (BSCP)    
+- **Certification Roadmap**:      
   - HTB Certified Penetration Testing Specialist (CPTS)  
-- **Bug Bounty Hunting & Vulnerability Research**  
-- **Web Development Skills** – building knowledge through The Odin Project  
+- **Bug Bounty Hunting & Vulnerability Research**    
 
 ---
 
