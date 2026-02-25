@@ -1,7 +1,5 @@
 # 404Future — Offensive Security Researcher
 
-![GitHub followers](https://img.shields.io/github/followers/404Future?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/404Future_?style=social)
-
 I’m **404Future**, a **SOC Analyst** and **Offensive Security Researcher** focused on **web application security, emerging web3 platforms, and AI-driven systems**. My journey blends hands-on defensive experience with structured offensive learning, tooling development, and practical vulnerability research.
 
 ---
