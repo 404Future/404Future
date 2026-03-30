@@ -1,4 +1,4 @@
-# 404Future — Offensive Security Researcher
+# Bio
 
 I’m **404Future**, a **Security Researcher** focused on **web application security and emerging technologies (blockchain, AI)**.
 
