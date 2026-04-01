@@ -1,6 +1,6 @@
 # Bio
 
-I’m **404Future**, a **Security Researcher** focused on **web application security and emerging technologies (blockchain, AI)**.
+Security Researcher / Bug bounty hunter specializing in **API security** and **business logic flaws**, building toward **Web3 audit** and **AI security**.
 
 ---
 
