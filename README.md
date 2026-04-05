@@ -43,3 +43,6 @@ Smart contract security researcher. EVM protocol security · DeFi vulnerability 
 ---
 -->
 
+## Contact
+
+[X / Twitter](https://x.com/404Future_) · [LinkedIn](https://www.linkedin.com/in/geoffreymorren/)
