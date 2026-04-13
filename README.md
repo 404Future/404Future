@@ -1,17 +1,5 @@
 # 0xFuture
 
-Smart contract security researcher. EVM protocol security · DeFi vulnerability research · AI/LLM attack surfaces.
-
----
-
-## Vulnerability Disclosures
-
-- Authentication bypass enabling impersonation of organizations in a national company registration system
-- Symlink path traversal in a developer tool — arbitrary file read on local machines
-- Account takeover via session fixation and weak rate limiting in a QR-based login flow
-- Unauthenticated information disclosure exposing infrastructure metrics and operational data
-
----
 <!--
 ## Specializations
 
