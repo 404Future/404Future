@@ -1,5 +1,3 @@
-# 0xFuture
-
 <!--
 ## Specializations
 
