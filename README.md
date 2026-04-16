@@ -31,5 +31,5 @@
 
 ## Contact
 
-Writeups:
+Write-Ups:
 - [Paragraph](https://paragraph.com/0x219dda77b9ba261a720537391ab742a2c5c7e215)
