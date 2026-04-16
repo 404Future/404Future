@@ -31,4 +31,4 @@
 
 ## Contact
 
-[X / Twitter](https://x.com/404Future_) · [Paragraph - Writeups](https://paragraph.com/0x219dda77b9ba261a720537391ab742a2c5c7e215) · [LinkedIn](https://www.linkedin.com/in/geoffreymorren/)
+[X / Twitter](https://x.com/404Future_) · [Paragraph - Writeups](https://paragraph.com/0x219dda77b9ba261a720537391ab742a2c5c7e215)
