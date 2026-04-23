@@ -1,7 +1,5 @@
-# Geoffrey Morren
-
-**Security Researcher · AppSec · Cloud Security · Web3 · AI/LLM**  
-Belgium · [Intigriti](https://app.intigriti.com/researcher/profile/404future) · [YesWeHack](https://yeswehack.com/hunters/404Future)
+## Security Researcher · AppSec · Cloud Security · Web3 · AI/LLM
+[Intigriti](https://app.intigriti.com/researcher/profile/404future) · [YesWeHack](https://yeswehack.com/hunters/404Future)
 
 ---
 
