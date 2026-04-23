@@ -1,50 +1,52 @@
-## Security Researcher · AppSec · Cloud Security · Web3 · AI/LLM
-[Intigriti](https://app.intigriti.com/researcher/profile/404future) · [YesWeHack](https://yeswehack.com/hunters/404Future)
+# 404Future
+
+**Security Researcher · AppSec · Web3 · AI/LLM**  
+[Intigriti](https://app.intigriti.com/profile/404Future) · [YesWeHack](https://yeswehack.com/hunters/404Future)
 
 ---
 
-SOC analyst by day, security researcher by habit. I investigate incidents across enterprise environments using Microsoft Sentinel, Defender XDR, and CrowdStrike Falcon — and spend the rest of my time finding vulnerabilities on bug bounty programmes and building expertise in Web3 and AI security.
+Security researcher with a background in defensive security operations and a focus on offensive research across three tracks: web application security, smart contract auditing, and AI/LLM vulnerability research.
 
-My approach: understand how defenders think, then use that to find what they miss.
+My approach is informed by both sides of the discipline — understanding how defenders detect attacks shapes how I look for what they miss.
 
 ---
 
 ## Bug Bounty
 
-Active on **Intigriti** and **YesWeHack**.
+Active on **Intigriti** and **YesWeHack**. Findings to date:
 
-| Severity | Finding | Programme |
+| Severity | Vulnerability | Status |
 |---|---|---|
 | P2 | Authentication bypass — chained logic flaw enabling full organisational impersonation | Disclosed |
-| P2 | Account takeover — session fixation + absent rate limiting in QR-based login flow | Disclosed |
+| P2 | Account takeover — session fixation combined with absent rate limiting in QR-based login flow | Disclosed |
 | P3 | Information disclosure — unauthenticated endpoint exposing internal infrastructure metrics | Disclosed |
-| P3 | Path traversal — symlink traversal in widely-used developer tool, arbitrary file read | Disclosed |
+| P3 | Path traversal — symlink traversal in widely-used developer tool enabling arbitrary file read | Disclosed |
+
+Writeups are published in [`bug-bounty-writeups`](https://github.com/404Future/bug-bounty-writeups) as programmes clear findings for public disclosure.
 
 ---
 
-## Focus Areas
+## Research Tracks
 
 **Web Application Security**  
-Full recon-to-exploitation workflow. Tools: Burp Suite Pro, ffuf, Nuclei, Subfinder, httpx, gau, TruffleHog, Gitleaks, Kiterunner, Arjun, SSTImap. Vulnerability classes: XSS, IDOR, SSRF, CORS, business logic, GraphQL, prototype pollution, API abuse.
+Full recon-to-exploitation workflow covering XSS, IDOR, SSRF, CORS misconfiguration, business logic flaws, GraphQL abuse, prototype pollution, and API security. Core tooling: Burp Suite Pro, ffuf, Nuclei, Subfinder, httpx, gau, TruffleHog, Gitleaks, Kiterunner, Arjun, SSTImap.
 
-**Web3 / Smart Contract Security** *(active development)*  
-Working through the Cyfrin Updraft curriculum — Blockchain Fundamentals, Solidity, Foundry. Completing Cyfrin First Flights audits and building toward competitive audit platforms (Sherlock, Code4rena). Focus: EVM internals, ERC token standards, reentrancy variants, access control, oracle manipulation, signature attacks.
+**Web3 / Smart Contract Security**  
+Working through the Cyfrin Updraft curriculum and completing First Flights audits. Methodology covers static analysis, manual code review with per-protocol threat modelling, invariant definition, fuzzing (Echidna, Medusa), and Foundry PoC development. Targeting competitive audit platforms (Sherlock, Code4rena) as the contest track builds. See [`audit-portfolio`](https://github.com/404Future/audit-portfolio) for full methodology and findings.
 
-**AI / LLM Security** *(active development)*  
-Focus on prompt injection, indirect prompt injection, agentic attack surfaces, and MCP server exploitation. Tools: PyRIT, PyRIT-Ship (Burp extension), Garak, Promptfoo. Particularly interested in the convergence of AI agents with on-chain execution — an underresearched attack surface.
-
-**Cloud & Identity Security**  
-Microsoft Azure, Entra ID, Defender for Cloud, Sentinel (KQL). SOC background gives a defender's lens on cloud attack paths.
+**AI / LLM Security**  
+Focus on prompt injection, indirect prompt injection, agentic attack surfaces, and MCP server exploitation. Particularly interested in the convergence of AI agents with on-chain execution — an intersection with almost no published methodology and significant real-world risk. Tools: PyRIT, PyRIT-Ship (Burp extension), Garak, Promptfoo. See [`ai-security-research`](https://github.com/404Future/ai-security-research) for methodology and findings.
 
 ---
 
 ## Repositories
 
-| Repository | Description | Status |
-|---|---|---|
-| [smart-contract-audit-portfolio](./smart-contract-audit-portfolio) | First Flights audit reports and PoCs | Active |
-| [bug-bounty-writeups](./bug-bounty-writeups) | Selected writeups from Intigriti and YesWeHack | Active |
-| [recon-toolkit](./recon-toolkit) | Personal automation scripts for bug bounty recon workflows | Active |
+| Repository | Description |
+|---|---|
+| [`audit-portfolio`](https://github.com/404Future/audit-portfolio) | Audit reports, PoCs, and methodology for smart contract engagements |
+| [`ai-security-research`](https://github.com/404Future/ai-security-research) | AI/LLM vulnerability research, CTF writeups, and tooling |
+| [`bug-bounty-writeups`](https://github.com/404Future/bug-bounty-writeups) | Web application security writeups from Intigriti and YesWeHack |
+| [`web3-security-tools`](https://github.com/404Future/web3-security-tools) | Scripts, templates, and tooling for smart contract audit workflows |
 
 ---
 
@@ -59,11 +61,7 @@ Microsoft Azure, Entra ID, Defender for Cloud, Sentinel (KQL). SOC background gi
 ## Currently
 
 - Completing Cyfrin Updraft (Solidity → Foundry → Smart Contract Security track)
-- Running First Flights audits and documenting findings
+- Running First Flights audits and documenting findings for public portfolio
 - Hunting on Intigriti and YesWeHack
-- Working through HTB AI Red Teamer path
+- Working through HTB AI Red Teamer path and Dreadnode Crucible challenges
 - Building toward Cyfrin CESR certification
-
----
-
-*Open to AppSec and Cloud Security Engineering roles.*
