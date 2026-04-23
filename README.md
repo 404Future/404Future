@@ -50,14 +50,6 @@ Focus on prompt injection, indirect prompt injection, agentic attack surfaces, a
 
 ---
 
-## Certifications
-
-- Microsoft Certified: Security Operations Analyst Associate (SC-200) — 2026
-- Blue Team Level 1 (BTL1) — Security Blue Team, 2025
-- Google Cybersecurity Specialization — 2024
-
----
-
 ## Currently
 
 - Completing Cyfrin Updraft (Solidity → Foundry → Smart Contract Security track)
