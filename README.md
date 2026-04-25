@@ -57,3 +57,9 @@ Focus on prompt injection, indirect prompt injection, agentic attack surfaces, a
 - Hunting on Intigriti and YesWeHack
 - Working through HTB AI Red Teamer path and Dreadnode Crucible challenges
 - Building toward Cyfrin CESR certification
+
+---
+
+## Cyfrin Updraft - Course Achievements
+[<img width="200" height="200" alt="blockchain-basics-badge" src="https://github.com/user-attachments/assets/314c41d5-cfea-47ae-96c6-dbb7e1f75a36" />
+](https://profiles.cyfrin.io/u/404future/achievements/blockchain-basics)
