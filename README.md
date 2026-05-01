@@ -1,6 +1,5 @@
 # 404Future
 
-**Security Researcher · AppSec · Web3 · AI/LLM**  
 [Intigriti](https://app.intigriti.com/profile/404Future) · [YesWeHack](https://yeswehack.com/hunters/404Future)
 
 ---
