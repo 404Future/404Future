@@ -15,7 +15,7 @@
 | Repository | Description |
 |---|---|
 | [`security-research`](https://github.com/404Future/security-research) | Cloud & AI/LLM vulnerability research, CTF writeups, and findings |
-| [`bug-bounty-writeups`](https://github.com/404Future/bug-bounty-writeups) | Web application security writeups from Intigriti and YesWeHack *(as programmes clear findings for public disclosure)* |
+| [`bug-bounty-writeups`](https://github.com/404Future/bug-bounty-writeups) | Web application security writeups from Intigriti and YesWeHack |
 | [`audit-portfolio`](https://github.com/404Future/audit-portfolio) | Smart contract audit reports and PoCs |
 
 ---
