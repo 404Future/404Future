@@ -5,7 +5,7 @@
 ---
 
 - Security researcher with a background in defensive security operations.
-- Professionally focused on cloud and AI security engineering.
+- Professionally focused on cloud infrastructure and AI/LLM security engineering.
 - Offensive research — Cloud & AI/LLM security, web application & smart contract auditing.
 
 ---
