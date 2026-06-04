@@ -2,7 +2,7 @@
 
 Application security and vulnerability research. Background in enterprise SOC operations — two years investigating real incidents across endpoint, identity, and network environments before shifting focus to the offensive side of the same problems.
 
-Current work is centered on application security: hunting bugs across verified programs on Intigriti and YesWeHack, building tooling that supports the research process, and going deep on vulnerability classes rather than wide across everything at once.
+Current work is centered on web application security: hunting bugs across verified programs on Intigriti and YesWeHack, building tooling that supports the research process, and going deep on vulnerability classes rather than wide across everything at once.
 
 ---
 
