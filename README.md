@@ -9,12 +9,15 @@ Current work is centered on web application security: hunting bugs across verifi
 **Focus areas**
 
 - Web application security — access control, API security, authentication flaws, injection
+- Web3 / smart contract security — Solidity foundations via Cyfrin, auditing methodology in progress
 - AI-augmented research tooling — knowledge base and recon pipeline built around primary sources
 - Independent vulnerability disclosure — P2 and P3 findings across authentication and access control
 
+Building sequentially: web2 properly first, web3 and mobile to follow.
+
 **Stack**
 
-Burp Suite Pro · Python · Bash · KQL · Microsoft security stack
+Burp Suite Pro · Python · Bash · Solidity · KQL · Microsoft security stack
 
 ---
 
